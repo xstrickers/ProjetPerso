@@ -1038,3 +1038,6 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.10.30-08.49.49:895][358]RenderDocPlugin: plugin has been unloaded.
 [2024.10.30-08.49.49:901][358]LogXGEController: Cleaning working directory: C:/Users/Etudiant1/AppData/Local/Temp/UnrealXGEWorkingDir/
 [2024.10.30-08.49.49:903][358]LogPakFile: Destroying PakPlatformFile
+[2024.10.30-08.49.50:317][358]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.10.30-08.49.50:331][358]LogExit: Exiting.
+[2024.10.30-08.49.50:345][358]Log file closed, 10/30/24 09:49:50
