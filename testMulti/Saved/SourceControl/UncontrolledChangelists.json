@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Etudes/Creajeux/Quatrieme_Annee/Eleve/ProjetPerso/ProjetPerso/testMulti/Content/Levels/Game/BP_GMGame.uasset",
+				"D:/Etudes/Creajeux/Quatrieme_Annee/Eleve/ProjetPerso/ProjetPerso/testMulti/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/SVN/Eleves/ProjetPerso/testMulti/Content/Levels/Game/L_Game.umap",
 				"D:/SVN/Eleves/ProjetPerso/testMulti/Content/Levels/Lobby/BP_GSLobby.uasset",
 				"D:/SVN/Eleves/ProjetPerso/testMulti/Content/Levels/Lobby/BP_PCLobby.uasset",
