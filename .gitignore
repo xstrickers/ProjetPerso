@@ -31,6 +31,18 @@
 # VSCode History Files
 **/.history
 
+###################################
+# JetBrains Rider Generated Files #
+###################################
+# Cache Directory
+.idea
+
+# Solution and Project Files
+*.sln
+*.csproj
+*.sln.DotSettings
+*.sln.DotSettings.user
+
 #################################
 # Miscellaneous Generated Files #
 #################################
