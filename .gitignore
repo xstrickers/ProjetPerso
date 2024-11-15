@@ -7,7 +7,13 @@
 /DerivedDataCache
 /Intermediate
 /Saved
+testMulti/Binaries/
 
+testMulti/Intermediate/
+
+testMulti/Saved/
+
+testMulti/Content/__ExternalActors__/
 #################################
 # Visual Studio Generated Files #
 #################################
