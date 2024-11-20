@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\etudes\\creajeux\\quatrieme_annee\\eleve\\projetperso\\projetperso\\testmulti\\plugins\\advancedsteamsessions\\intermediate\\build\\win64\\unrealgame\\inc\\advancedsteamsessions\\uht\\advancedsteamsessions.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\etudes\\creajeux\\quatrieme_annee\\eleve\\projetperso\\projetperso\\testmulti\\intermediate\\build\\win64\\x64\\testmulti\\debuggame\\engine\\sharedpch.engine.project.nonoptimized.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "d:\\etudes\\creajeux\\quatrieme_annee\\eleve\\projetperso\\projetperso\\testmulti\\plugins\\advancedsteamsessions\\intermediate\\build\\win64\\x64\\unrealgame\\debuggame\\advancedsteamsessions\\definitions.advancedsteamsessions.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
