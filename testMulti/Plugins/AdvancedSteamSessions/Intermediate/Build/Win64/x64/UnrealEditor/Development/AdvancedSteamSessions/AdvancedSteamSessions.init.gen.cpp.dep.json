@@ -1,11 +1,11 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\etudes\\creajeux\\quatrieme_annee\\eleve\\projetperso\\projetperso\\testmulti\\plugins\\advancedsteamsessions\\intermediate\\build\\win64\\unrealeditor\\inc\\advancedsteamsessions\\uht\\advancedsteamsessions.init.gen.cpp",
+        "Source": "c:\\users\\etudiant1\\documents\\github\\projetperso\\testmulti\\plugins\\advancedsteamsessions\\intermediate\\build\\win64\\unrealeditor\\inc\\advancedsteamsessions\\uht\\advancedsteamsessions.init.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\etudes\\creajeux\\quatrieme_annee\\eleve\\projetperso\\projetperso\\testmulti\\intermediate\\build\\win64\\x64\\testmultieditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "PCH": "c:\\users\\etudiant1\\documents\\github\\projetperso\\testmulti\\intermediate\\build\\win64\\x64\\testmultieditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
         "Includes": [
-            "d:\\etudes\\creajeux\\quatrieme_annee\\eleve\\projetperso\\projetperso\\testmulti\\plugins\\advancedsteamsessions\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\advancedsteamsessions\\definitions.advancedsteamsessions.h"
+            "c:\\users\\etudiant1\\documents\\github\\projetperso\\testmulti\\plugins\\advancedsteamsessions\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\advancedsteamsessions\\definitions.advancedsteamsessions.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
